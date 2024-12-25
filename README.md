@@ -12,6 +12,7 @@
 
 ![](Pictures/image-0.jpg)
 ![](Pictures/image-1.jpg)
+![](Pictures/image-2.jpg)
 
 ## Showcase
 https://github.com/user-attachments/assets/1994daf6-2b12-4972-aad4-82acfa991154
